@@ -2,7 +2,7 @@
 
 # Google Places API Scripts for Company Details Retrieval
 
-These scripts allow you to retrieve details of different companies within a certain location, within a specified radius using the Google Places API. Specifically, it enables you to find details of plumbing companies in a given location within a 50-mile radius.
+These scripts allow you to retrieve details of different companies within a certain location, within a specified radius using the Google Places API. Specifically, it enables you to find details of plumbing companies in a given location within a 50-mile radius (editable).
 
 ## Prerequisites
 
